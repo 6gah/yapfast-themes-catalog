@@ -60,7 +60,7 @@
       "repo": "https://github.com/6gah/yapfast-themes-catalog",
       "path": "themes/bubblegum",
       "commit": "b4bcbfb1b0d73ff59efd99cc58bf0c046d98a9d8",
-      "sha256": "b816aa2b6d1473109a0034dc53d6551da80341094fe7452a89739a191bfa36e2",
+      "sha256": "429c006b7ed7308025b17a29e94c17b4001366123834fbdab7bb732df16d7175",
       "description": "A pastel handheld console of our own design: a pink-to-lilac plastic shell with a star D-pad, candy face keys, a power LED and speaker slots, a mint LCD inset in a plum bezel with a pixel grid, candy hover bar, holographic player cards, chunky pixel icons and 8-bit blips. Light only.",
       "preview": "https://raw.githubusercontent.com/6gah/yapfast-themes-catalog/b4bcbfb1b0d73ff59efd99cc58bf0c046d98a9d8/themes/bubblegum/previews/chat.webp",
       "light": true,
